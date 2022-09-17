@@ -18,7 +18,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-![](https://i.imgur.com/FhuAVT9.gif)
+![](https://i.imgur.com/7PJ3XOH.gif)
 
 ### Notes
 When I first started the project, I did not notice that I had selected a project for all of Apple's devices. I got pretty far into the assignment and even made my own LaunchScreen.storyboard file because I couldn't find my own. I went back and watched from the beginning and realized what my I did wrong. Then I simply selected the right project type (iOS app) and finished the assignment.
